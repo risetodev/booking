@@ -1,1 +1,4 @@
-TBC
+Technologies: 
+- react
+- zustand
+- primereact
